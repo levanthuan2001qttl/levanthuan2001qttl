@@ -1,7 +1,10 @@
 # 💫About Me :
 A front end developer from Vietnam
+
 I have more than 2 years and work in software development.
+
 ✍ I'm a student of: Duy Tan University (DTU).
+
 🌱 I’m currently learning Front end developer.
 
 # 💻Tech Stack
